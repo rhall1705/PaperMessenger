@@ -1,1 +1,3 @@
 # PaperMessenger
+
+A public repository for the Paper Messenger Android client. Please note that this only contains code within the app directory of the project, meaning that no backend code is included. Furthermore, all network endpoints and keys have been removed from the client code, meaning that compiling this code will result in an application without functional network calls. Instead, this is meant as a showcase for the Android code and design patterns used to create the client. To use the functional application, please download it from the Google Play Store at https://play.google.com/store/apps/details?id=personal.rowan.paperforspotify&hl=en
