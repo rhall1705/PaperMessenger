@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_id": "paper-for-spotify",
-    "project_number": "343757833104",
+    "project_id": "YourProjectIdHere",
+    "project_number": "YourProjectNumberHere",
     "name": "Paper for spotify"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:343757833104:android:19e31fbd53623a86",
-        "client_id": "android:personal.rowan.paperforspotify",
+        "mobilesdk_app_id": "YourMobileSdkAppIdHere",
+        "client_id": "YourClientIdHere",
         "client_type": 1,
         "android_client_info": {
           "package_name": "personal.rowan.paperforspotify",
